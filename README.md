@@ -6,7 +6,9 @@ Shaadify is a wedding budget visualizer for Pakistani families. It works like a 
 
 Screen recording of Shaadify running in Chrome (about 3 minutes).
 
-[demo/shaadify-screen-recording.mp4](demo/shaadify-screen-recording.mp4) is the original recording. [demo/shaadify-demo.mp4](demo/shaadify-demo.mp4) is a smaller copy used for playback on this page.
+https://github.com/user-attachments/assets/c1f8d654-b8bf-4056-ba2f-8e721896d269
+
+The original recording is [demo/shaadify-screen-recording.mp4](demo/shaadify-screen-recording.mp4). A smaller copy is [demo/shaadify-demo.mp4](demo/shaadify-demo.mp4).
 
 Sign-in on the recording is local. Any email and password opens the app.
 
